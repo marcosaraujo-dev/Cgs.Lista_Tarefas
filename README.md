@@ -69,15 +69,15 @@ Project Link: [https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas](https://gi
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/devsamurai.svg?style=for-the-badge
-[contributors-url]: https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/ProjetosCursoDevSamurai.svg?style=for-the-badge
-[forks-url]: https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/network/members
-[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/ProjetosCursoDevSamurai.svg?style=for-the-badge
-[stars-url]: https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/stargazers
-[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/ProjetosCursoDevSamurai.svg?style=for-the-badge
-[issues-url]: https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/issues
-[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/ProjetosCursoDevSamurai.svg?style=for-the-badge
-[license-url]: https://github.com/marcosaraujo-dev/ProjetosCursoDevSamurai/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/marcosaraujo-dev/Cgs.Lista_Tarefas.svg?style=for-the-badge
+[contributors-url]: https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/marcosaraujo-dev/Cgs.Lista_Tarefas.svg?style=for-the-badge
+[forks-url]: https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas/network/members
+[stars-shield]: https://img.shields.io/github/stars/marcosaraujo-dev/Cgs.Lista_Tarefas.svg?style=for-the-badge
+[stars-url]: https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas/stargazers
+[issues-shield]: https://img.shields.io/github/issues/marcosaraujo-dev/Cgs.Lista_Tarefas.svg?style=for-the-badge
+[issues-url]: https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas/issues
+[license-shield]: https://img.shields.io/github/license/marcosaraujo-dev/Cgs.Lista_Tarefas.svg?style=for-the-badge
+[license-url]: https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/marcosaraujosouza/
