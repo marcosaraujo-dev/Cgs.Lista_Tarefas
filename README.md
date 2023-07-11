@@ -55,7 +55,7 @@ Tela com tarefas finalizadas
 
 Marcos Araujo - [@linkedIn](https://www.linkedin.com/in/marcosaraujosouza/) - marcos.araso@hotmail.com
 
-Project Link: [https://github.com/marcosaraujo-dev/CGS.Tarefas](https://github.com/marcosaraujo-dev/CGS.Tarefas)
+Project Link: [https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas](https://github.com/marcosaraujo-dev/Cgs.Lista_Tarefas)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
