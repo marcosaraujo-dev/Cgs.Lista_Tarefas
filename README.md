@@ -37,7 +37,6 @@ Lista de Tarefas
 <br/>
 <h4>Lista com tarefas Finalizadas</h4>
 Tela com tarefas finalizadas
-
 <img src="src/images/listaTarefasFinalizadas.jpg" \>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
